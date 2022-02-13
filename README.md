@@ -1,5 +1,6 @@
 Hi there, I'm José Luis Tello 👋
 A data analyst and software developer from México.
+#############################################################3
 Besides analysis and software, I enjoy building financial models, technical writing stuff, teaching in my blog, newsletter and youtube channel
 
 🌱 I’m currently learning software engineering.
